@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gouur-VS/gamerhub.git/static/css/main.73aba2ef.css",
+    "main.js": "/Gouur-VS/gamerhub.git/static/js/main.77f8134d.js",
+    "index.html": "/Gouur-VS/gamerhub.git/index.html",
+    "main.73aba2ef.css.map": "/Gouur-VS/gamerhub.git/static/css/main.73aba2ef.css.map",
+    "main.77f8134d.js.map": "/Gouur-VS/gamerhub.git/static/js/main.77f8134d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73aba2ef.css",
+    "static/js/main.77f8134d.js"
+  ]
+}
