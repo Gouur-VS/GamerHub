@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Gouur-VS/gamerhub.git/static/css/main.73aba2ef.css",
-    "main.js": "/Gouur-VS/gamerhub.git/static/js/main.77f8134d.js",
+    "main.css": "/Gouur-VS/gamerhub.git/static/css/main.8fb9761a.css",
+    "main.js": "/Gouur-VS/gamerhub.git/static/js/main.9053d242.js",
     "index.html": "/Gouur-VS/gamerhub.git/index.html",
-    "main.73aba2ef.css.map": "/Gouur-VS/gamerhub.git/static/css/main.73aba2ef.css.map",
-    "main.77f8134d.js.map": "/Gouur-VS/gamerhub.git/static/js/main.77f8134d.js.map"
+    "main.8fb9761a.css.map": "/Gouur-VS/gamerhub.git/static/css/main.8fb9761a.css.map",
+    "main.9053d242.js.map": "/Gouur-VS/gamerhub.git/static/js/main.9053d242.js.map"
   },
   "entrypoints": [
-    "static/css/main.73aba2ef.css",
-    "static/js/main.77f8134d.js"
+    "static/css/main.8fb9761a.css",
+    "static/js/main.9053d242.js"
   ]
 }
