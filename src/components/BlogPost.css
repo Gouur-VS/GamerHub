@@ -1,0 +1,12 @@
+.card-title, .card-text, .card-footer small, .btn-outline-primary {
+  color: white !important; /* !important asegura que sobrescriba estilos de Bootstrap */
+}
+
+.btn-outline-primary {
+  border-color: white; /* Ajusta el borde para que combine con el texto blanco */
+}
+
+.btn-outline-primary:hover {
+  background-color: #ffffff; /* Blanco al hover para contraste */
+  color: #0d1b2a; /* Texto oscuro al hover */
+}
