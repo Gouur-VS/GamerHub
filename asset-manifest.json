@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Gouur-VS/Gamerhub.git/static/css/main.380b954a.css",
-    "main.js": "/Gouur-VS/Gamerhub.git/static/js/main.9053d242.js",
-    "index.html": "/Gouur-VS/Gamerhub.git/index.html",
-    "main.380b954a.css.map": "/Gouur-VS/Gamerhub.git/static/css/main.380b954a.css.map",
-    "main.9053d242.js.map": "/Gouur-VS/Gamerhub.git/static/js/main.9053d242.js.map"
+    "main.css": "/Gouur-VS/GamerHub.git/static/css/main.380b954a.css",
+    "main.js": "/Gouur-VS/GamerHub.git/static/js/main.9053d242.js",
+    "index.html": "/Gouur-VS/GamerHub.git/index.html",
+    "main.380b954a.css.map": "/Gouur-VS/GamerHub.git/static/css/main.380b954a.css.map",
+    "main.9053d242.js.map": "/Gouur-VS/GamerHub.git/static/js/main.9053d242.js.map"
   },
   "entrypoints": [
     "static/css/main.380b954a.css",
