@@ -1,11 +1,11 @@
 import React from 'react';
-import './BlogPost.css'; // Añade esta línea
+import './BlogPost.css'; 
 
 interface BlogPostProps {
   title: string;
   body: string;
   image: string;
-  url?: string; // Opcional
+  url?: string; 
 }
 
 const BlogPost: React.FC<BlogPostProps> = ({ title, body, image, url = '#' }) => {
