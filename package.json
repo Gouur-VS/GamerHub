@@ -2,7 +2,7 @@
   "name": "gamerhub",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Gouur-VS/GamerHub.git",
+  "homepage": "https://github.com/Gouur-VS/GamerHub",
   "dependencies": {
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
